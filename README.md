@@ -6,9 +6,15 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Technical Skills  
-- **Languages:** C++, Python, TypeScript, HTML5, CSS3  
-- **Frameworks & Tools:** React Native, Tailwind CSS, Flask  
-- **Other Tools:** Visual Studio Code, Visual Studio Insiders 2026, MySQL  
-
+## Tech Stack
+p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,html,css" /><br>
+  
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flask" /><br>
+  
+  <!-- Other Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,mysql" />
+</p>
 
